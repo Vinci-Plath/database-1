@@ -10,9 +10,9 @@ This project involved creating a MySQL database for a fictional bookstore. We de
 
 ## Project Goals
 
-- Design a relational database schema for a bookstore.
-- Implement the database in MySQL with appropriate data types and relationships.
-- Create user roles with limited access.
+- Design a relational database schema for a bookstore.  
+- Implement the database in MySQL with appropriate data types and relationships.  
+- Create user roles with limited access.  
 - Run SQL queries to retrieve and analyze data.
 
 ## Tables Implemented
@@ -35,7 +35,12 @@ This project involved creating a MySQL database for a fictional bookstore. We de
 
 ![Entity Relationship Diagram](images/erd.png)
 
+## Tools Used
 
+- **MySQL** – For database creation and querying  
+- **draw.io** – For designing the Entity Relationship Diagram (ERD)  
+- **Visual Studio Code** – As the primary code editor  
+- **Git & GitHub** – For version control and collaboration.
 
 ## Sample SQL Queries
 
@@ -52,9 +57,7 @@ FROM cust_order
 GROUP BY customer_id;
 
 
-CONTRIBUTORS:
-Chalonreay Kahindi 
+**CONTRIBUTORS* - Group Members (Group_name - Lec)
+Chalonreay Kahindi
 Eileen Esendi
-Lucy Kiage 
 
-Group: Lec
