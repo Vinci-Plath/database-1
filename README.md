@@ -57,7 +57,9 @@ FROM cust_order
 GROUP BY customer_id;
 
 
-**CONTRIBUTORS* - Group Members (Group_name - Lec)
+## CONTRIBUTORS 
 Chalonreay Kahindi
 Eileen Esendi
 
+
+## Group_Name - LEC
